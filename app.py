@@ -44,7 +44,7 @@ st.write(
 
 model_files = {
     "Logistic Regression":
-        "logistic_regression.pkl",
+    "logistic.pkl",
 
     "Decision Tree":
         "decision_tree.pkl",
